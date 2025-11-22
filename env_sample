@@ -1,1 +1,2 @@
-
+os.environ["OPENAI_API_KEY"] = "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"
+os.environ["HUGGINGFACEHUB_API_TOKEN"] = "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"
